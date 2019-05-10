@@ -42,7 +42,7 @@
     },
     "devDependencies": {
         "husky": "^2.1.0",
-        "nyc": "^14.0.0",
+        "nyc": "^14.1.1",
         "prettier": "^1.14.3",
         "pretty-quick": "^1.8.0",
         "rimraf": "^2.6.2",
